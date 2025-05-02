@@ -1,9 +1,9 @@
 "use client";
 
-import Image from "next/image";
+
 import Header from "./components/Header";
 import { useState, useEffect } from "react";
-import { FaHeart, FaTrash, FaTimes, FaStar } from "react-icons/fa";
+import {FaTrash, FaTimes, FaStar } from "react-icons/fa";
 import { supabase } from "@/lib/supabase";
 import Link from "next/link";
 

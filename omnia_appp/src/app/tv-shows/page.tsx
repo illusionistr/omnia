@@ -1,7 +1,6 @@
 "use client";
 
 import Header from "../components/Header";
-import Image from "next/image";
 import { useState, useEffect } from "react";
 import { FaHeart, FaSearch, FaTimes, FaFilter } from "react-icons/fa";
 import { supabase } from "../lib/supabase";
