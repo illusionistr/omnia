@@ -5,7 +5,6 @@ import Header from "./components/Header";
 import { useState, useEffect } from "react";
 import {FaTrash, FaTimes, FaStar } from "react-icons/fa";
 import { supabase } from "@/lib/supabase";
-import Link from "next/link";
 
 interface Movie {
   show_id: string;
