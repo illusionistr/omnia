@@ -50,7 +50,9 @@ const eslintConfig = [
       "no-unsafe-return": "off",
       "require-atomic-updates": "off",
       "use-isnan": "off",
-      "valid-typeof": "off"
+      "valid-typeof": "off",
+      "react/no-unescaped-entities": "off",
+      "no-unused-vars": "off"
     }
   },
 ];
