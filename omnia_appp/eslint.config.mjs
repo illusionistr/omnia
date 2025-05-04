@@ -52,7 +52,8 @@ const eslintConfig = [
       "use-isnan": "off",
       "valid-typeof": "off",
       "react/no-unescaped-entities": "off",
-      "no-unused-vars": "off"
+      "no-unused-vars": "off",
+      
     }
   },
 ];
